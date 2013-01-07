@@ -14,6 +14,7 @@ TBD once we find out who is available and when, and scale to demand.
 If you interested in helping offer office hours, please add your name and time
 slots you regularly have available below (including any exceptions you know of). 
  + Jon Pipitone, Monday 12pm-7pm EST, Friday 9am-5pm EST
+ + 10 am - 5 pm EST daily except Tuesdays 1-3pm
 
 ### Software Options
 
