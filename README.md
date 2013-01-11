@@ -15,6 +15,7 @@ If you interested in helping offer office hours, please add your name and time
 slots you regularly have available below (including any exceptions you know of). 
  + Jon Pipitone, Monday 12pm-7pm EST, Friday 9am-5pm EST
  + Matt Davis: 10 am - 5 pm EST daily except Tuesdays 1-3pm
+ + Steve Haddock: 11-12, 2-5 pm PST daily except Fridays
 
 ### Software Options
 
